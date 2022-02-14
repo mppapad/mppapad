@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mppapad
-- 👀 I’m interested in learning new skills on Computer Science and programming. 
+- 👀 I’m interested in learning new skills on Computer Science & Programming
 - 🌱 I’m currently learning Java
 
 <!---
