@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mppapad
+- 👋 Hi, I’m @mppapad 
 - 👀 I’m interested in learning new skills on Computer Science & Programming
-- 🌱 I’m currently studying AI on the University of Macedonia
+- 🌱 I’m currently studying AI at University of Macedonia
 
 <!---
 mppapad/mppapad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
